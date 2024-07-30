@@ -7,31 +7,31 @@ This topic descripe how to define [$XDG_CONFIG_HOME](https://superuser.com/quest
 
 ## Default config paths
 
-### alacritty
-$XDG_CONFIG_HOME/alacritty/alacritty.toml
-$XDG_CONFIG_HOME/alacritty.toml
-$HOME/.config/alacritty/alacritty.toml
-$HOME/.alacritty.toml
+### Alacritty
+- $XDG_CONFIG_HOME/alacritty/alacritty.toml
+- $XDG_CONFIG_HOME/alacritty.toml
+- $HOME/.config/alacritty/alacritty.toml
+- $HOME/.alacritty.toml
 
 ### Vim/Nvim
-$XDG_CONFIG_HOME/nvim/init.lua
-$HOME/.config/nvim/init.lua
+- $XDG_CONFIG_HOME/nvim/init.lua
+- $HOME/.config/nvim/init.lua
 
 ### Tmux
-$XDG_CONFIG_HOME/tmux/tmux.conf
-$HOME/.config/tmux/tmux.conf
+- $XDG_CONFIG_HOME/tmux/tmux.conf
+- $HOME/.config/tmux/tmux.conf
 
 ### Skhd
-$XDG_CONFIG_HOME/skhd/skhdrc
-$HOME/.config/skhd/skhdrc
-$HOME/.skhdrc
+- $XDG_CONFIG_HOME/skhd/skhdrc
+- $HOME/.config/skhd/skhdrc
+- $HOME/.skhdrc
 
 ### Yabai
-$XDG_CONFIG_HOME/yabai/yabairc
-$HOME/.config/yabai/yabairc
-$HOME/.yabairc
+- $XDG_CONFIG_HOME/yabai/yabairc
+- $HOME/.config/yabai/yabairc
+- $HOME/.yabairc
 
 ### Tmux
-$XDG_CONFIG_HOME/tmux/.tmux.conf
-$HOME/.config/tmux/.tmux.conf
-$HOME/.tmux.conf
+- $XDG_CONFIG_HOME/tmux/.tmux.conf
+- $HOME/.config/tmux/.tmux.conf
+- $HOME/.tmux.conf
