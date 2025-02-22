@@ -13,6 +13,9 @@ This topic descripe how to define [$XDG_CONFIG_HOME](https://superuser.com/quest
 - $HOME/.config/alacritty/alacritty.toml
 - $HOME/.alacritty.toml
 
+### Kitty
+- ~/.config/kitty/
+
 ### Vim/Nvim
 - $XDG_CONFIG_HOME/nvim/init.lua
 - $HOME/.config/nvim/init.lua
